@@ -6,13 +6,13 @@
 Sumit Panigrahi
 
 **GitHub Username:**
-<!-- fill in your GitHub username -->
+SumitPanigrahiGit
 
 **Team Name:**
 Team Zenith
 
 **College/University:**
-IIT Madras (BS in Data Science & Programming)
+Odisha University of Technology and Research
 
 ---
 
@@ -38,13 +38,13 @@ dependency-staleness checker that queries live PyPI data.
 Python, FastAPI, scikit-learn, GitPython, Typer, Pandas/NumPy, vanilla HTML/CSS/JS (dashboard), pytest
 
 **GitHub Repository Link:**
-<!-- add your public repo URL after pushing, e.g. https://github.com/YOUR_USERNAME/gitropy -->
+https://github.com/SumitPanigrahiGit/GitroPy<!-- add your public repo URL after pushing, e.g. https://github.com/YOUR_USERNAME/gitropy -->
 
 **Live Demo Link:**
-<!-- add if you deploy the FastAPI service somewhere, e.g. Render/Railway -->
+Not deployed yet - runs locally via `uvicorn` or the CLI (see README)<!-- add if you deploy the FastAPI service somewhere, e.g. Render/Railway -->
 
 **Presentation / Demo Video Link:**
-<!-- optional -->
+N/A<!-- optional -->
 
 ---
 
@@ -61,13 +61,13 @@ Python, FastAPI, scikit-learn, GitPython, Typer, Pandas/NumPy, vanilla HTML/CSS/
 
 ## Memori Labs Sponsor Task
 
-- [ ] I have starred the Memori Labs GitHub repository
+- [x] I have starred the Memori Labs GitHub repository
   https://github.com/MemoriLabs/Memori
-- [ ] I have followed Memori Labs on LinkedIn
+- [x] I have followed Memori Labs on LinkedIn
   https://www.linkedin.com/company/memorilabs/
-- [ ] I have followed Memori Labs on X
+- [x] I have followed Memori Labs on X
   https://x.com/memorilab
-- [ ] I have checked Memori Labs social links
+- [x] I have checked Memori Labs social links
   https://linktr.ee/memorilabs
 
 ---
