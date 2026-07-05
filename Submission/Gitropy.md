@@ -6,7 +6,7 @@
 Sumit Panigrahi
 
 **GitHub Username:**
-SumitPanigrahiGit
+SumitPanigrahiGit 
 
 **Team Name:**
 Team Zenith
